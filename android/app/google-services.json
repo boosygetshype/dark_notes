@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744090743477",
+    "project_id": "dark-notes-app",
+    "storage_bucket": "dark-notes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744090743477:android:878d217b08c3b23c6744fc",
+        "android_client_info": {
+          "package_name": "com.example.dark_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNV3V858QaT9UB1l2hJcNi_cRKYJnL74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
